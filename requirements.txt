@@ -1,0 +1,9 @@
+numpy
+pandas
+PIL
+scikit-image
+scikit-learn
+matplotlib
+torchvision
+pytorch
+cudatoolkit
