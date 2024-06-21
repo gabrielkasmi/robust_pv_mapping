@@ -17,8 +17,8 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-Finally, download the model weights on this Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12179554.svg)](https://doi.org/10.5281/zenodo.12179554)
- and make sure that you've downloaded the training dataset BDAPPV, accessible [here](https://zenodo.org/records/7358126).
+Finally, download the model weights on this Zenodo repository [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12179554.svg)](https://zenodo.org/records/12179554)
+ and make sure that you've downloaded the training dataset BDAPPV, accessible [here](https://zenodo.org/records/12179554).
 
 ## Overview
 
