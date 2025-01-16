@@ -130,6 +130,8 @@ class BDAPPVClassification(Dataset):
         self.noise = noise # add Gaussian noise to the image
         self.downsample = downsample # target size of the image. If None, then no resampling is applied
 
+        self.classes=2 # number of classes for CORAL
+
         if images_list is None:
             # image and mask folders : filtering only the elements that end with .png.
             self.img_folder = [img for img in os.listdir(self.img_dir) if img[-4:] == '.png']
