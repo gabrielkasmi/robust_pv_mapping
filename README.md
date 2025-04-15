@@ -33,11 +33,14 @@ The folder `domain-adaptation` contains the necessary code to replicate our eval
 The appropriate citation for this work is:
 
 ```
-@article{kasmi2024space,
-  title={Space-scale Exploration of the Poor Reliability of Deep Learning Models: the Case of the Remote Sensing of Rooftop Photovoltaic Systems},
-  author={Kasmi, Gabriel and Dubus, Laurent and Drenan, Yves-Marie Saint and Blanc, Philippe},
-  journal={arXiv preprint arXiv:2408.07828},
-  year={2024}
+@article{kasmi2025space,
+  title={Space-scale exploration of the poor reliability of deep learning models: the case of the remote sensing of rooftop photovoltaic systems},
+  author={Kasmi, Gabriel and Dubus, Laurent and Saint-Drenan, Yves-Marie and Blanc, Philippe},
+  journal={Environmental Data Science},
+  volume={4},
+  pages={e22},
+  year={2025},
+  publisher={Cambridge University Press}
 }
 ```
 
